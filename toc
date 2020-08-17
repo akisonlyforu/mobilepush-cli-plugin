@@ -1,0 +1,9 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="mobilepush-cli-plugin" audience="cli" href="/docs/mobilepush-cli-plugin/mobilepush_cli.html" path="mobilepush-cli-plugin"}
+IBM Cloud Push Notifications CLI reference
+
+    {: .navgroup id="reference"}
+    mobilepush_cli.md
+    {: .navgroup-end}
