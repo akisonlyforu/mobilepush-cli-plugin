@@ -698,6 +698,6 @@ Use this command to uninstall the {{site.data.keyword.mobilepushshort}} CLI plug
 ```sh
 ibmcloud plugin uninstall push-notifications
 ```
-{pre}
+{: pre}
 
 Uninstall returns a success message, if no errors.
