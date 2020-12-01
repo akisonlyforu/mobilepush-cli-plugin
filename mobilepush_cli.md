@@ -2,7 +2,7 @@
  
 copyright:
   years: 2020
-lastupdated: "2020-08-17"
+lastupdated: "2020-12-01"
 
 subcollection: mobilepush-cli-plugin
 
@@ -63,7 +63,7 @@ Plug-in 'push-notifications 1.0.0' was successfully installed into /Users/<usern
 ## ibmcloud pn init
 {: #mobilepush-initialize-cli}
 
-Before proceeding with initializing the CLI plug-in make sure that you have set your ibmcloud account to particular resource group. 
+Before proceeding with initializing the CLI plug-in make sure that you have selected the region and set your ibmcloud account to particular resource group.
 {: note}
 
 Initialize the cli plug-in by using the following command:
@@ -690,10 +690,10 @@ udBShb07    Accepted
 ```
 {: screen}
 
-## ibmcloud plugin uninstall
+## ibmcloud plug-in uninstall
 {: #mobilepush-cli-uninstall}
 
-Use this command to uninstall the {{site.data.keyword.mobilepushshort}} CLI plugin.
+Use this command to uninstall the {{site.data.keyword.mobilepushshort}} CLI plug-in.
 
 ```sh
 ibmcloud plugin uninstall push-notifications
